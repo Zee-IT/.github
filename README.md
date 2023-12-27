@@ -1,6 +1,6 @@
 # Welcome to ZeeIT's GitHub Repository! 🚀
 
-![ZeeIT Logo]([https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=310,h=286,fit=crop/dOq7agWgVRFOMG17/icon-AMqx13j9Joc1ZO1q.png])
+![ZeeIT Logo](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=310,h=286,fit=crop/dOq7agWgVRFOMG17/icon-AMqx13j9Joc1ZO1q.png)
 
 ---
 
